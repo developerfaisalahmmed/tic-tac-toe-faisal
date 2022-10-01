@@ -161,7 +161,7 @@ class Game extends Component {
 
 
                     const data = {
-                        title: 'We Tied',
+                        title: 'It is a Tie!',
                         text: 'Restart?',
                         icon: 'info',
                         confirmText: 'Yes!',
